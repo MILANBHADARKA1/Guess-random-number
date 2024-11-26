@@ -1,2 +1,2 @@
 # Guess-random-number
-GAME
+Simple Javascript Game
